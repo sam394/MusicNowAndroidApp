@@ -23,7 +23,7 @@ import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
 import com.example.musicnowapp.R;
-import com.shared.app.messages.LogIn;
+
 
 public class MainActivity extends FragmentActivity implements
 		ActionBar.OnNavigationListener {
